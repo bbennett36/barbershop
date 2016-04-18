@@ -1,3 +1,1 @@
-# barbershop
-# blessedbarbershop
-# blessedbarbershop
+# 1st version of barbershop website
